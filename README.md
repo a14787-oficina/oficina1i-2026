@@ -3,17 +3,17 @@
 Este repositório contém uma coleção de exercícios introdutórios sobre estruturas condicionais em Python (if, elif, else).
 Cada bloco de código representa um pequeno desafio prático, ideal para quem está a iniciar a aprendizagem da linguagem.
 
-###Conteúdos
+### Conteúdos
 O ficheiro inclui vários exemplos de decisões condicionais, organizados por nível de dificuldade:
 
-##Básico (B)
-#Exercício	Descrição
+## Básico (B)
+# Exercício	Descrição
 B3	Verifica se um número é par ou ímpar.
 B4	Compara dois números e identifica o maior.
 B5	Valida uma password simples.
 
-##Intermédio (I)
-#Exercício	Descrição
+## Intermédio (I)
+# Exercício	Descrição
 I1	Classifica uma nota escolar (Excelente, Bom, Suficiente, Reprovado).
 I2	Classifica a idade em categorias (Criança, Jovem, Adulto, Sénior).
 I3	Verifica se um número é múltiplo de 3, 5 ou ambos.
@@ -21,7 +21,7 @@ I4	Sistema simples de autenticação com utilizador e password.
 I5	Verifica se um número está dentro de um intervalo (10 a 20).
 
 Avançado (A)
-#Exercício	Descrição
+# Exercício	Descrição
 A1	Simula um levantamento bancário verificando saldo.
 A2	Determina o maior entre quatro números.
 A3	Calcula o IMC e classifica o resultado.
